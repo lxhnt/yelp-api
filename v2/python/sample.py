@@ -33,9 +33,15 @@ SEARCH_PATH = '/v2/search/'
 BUSINESS_PATH = '/v2/business/'
 
 # OAuth credential placeholders that must be filled in by users.
+<<<<<<< HEAD
 CONSUMER_KEY =t-CSCGDu04IGRqh5TMxC6g
 CONSUMER_SECRET = W15_p9yGU3EG-75y8485CTwlYhU
 TOKEN = _Fx6BhyR9c5aYamlsqsiliy6Y3OXkLBu
+=======
+CONSUMER_KEY = t-CSCGDu04lGRqh5TMxC6g
+CONSUMER_SECRET = W15_p9yGU3EG-75y8485CTwlYhU
+TOKEN = _Fx6BhyR9c5aYamIsqsiliy6Y3OXkLBu
+>>>>>>> a52493ec156813d7e4e9926b503154343e673910
 TOKEN_SECRET = YV6mZbrmYXkdKeswcf3UqotGL5c
 
 
